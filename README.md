@@ -45,8 +45,8 @@ To get started with this boilerplate, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/react-mui-redux-boilerplate.git
-cd react-mui-redux-boilerplate
+git clone https://github.com/shehzadfalcon/react-redux-MUI-starter-kit.git
+cd react-redux-MUI-starter-kit
 ```
 
 ```bash
