@@ -93,12 +93,23 @@ This structure is designed to separate concerns:
 ---
 
 ## Contributing
-We welcome contributions to improve this boilerplate and make it even more developer-friendly. Here's how you can contribute:
+We welcome contributions from anyone passionate about AI ethics, neuroethics, and web development! Here's how you can contribute:
 
-Fork the repository and create a new branch: git checkout -b my-feature-branch
-Make your changes and commit them: git commit -m 'Add new feature'
-Push to your branch: git push origin my-feature-branch
-Open a pull request and submit it for review
+Fork the repository and create your branch:
+```bash
+git checkout -b my-feature-branch
+```
+Commit your changes: 
+```bash
+git commit -m 'Add some feature'
+```
+Push to the branch: 
+```bash
+git push origin my-feature-branch
+```
+Open a pull request to the main branch for review
+Please review our Code of Conduct before contributing to ensure a positive and constructive environment for all contributors.
+
 
 
 ## License
